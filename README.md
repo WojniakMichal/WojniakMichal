@@ -1,4 +1,4 @@
-- 🔭 I’m currently working as Software Tester on [MyTherapy](https://www.mytherapyapp.com/) app.
+- 🔭 I’m currently working as Software Tester on [MyTherapy](https://www.mytherapyapp.com/) app
 
 - 👨‍💻 My simple, yet very responsive website is available at [https://wojniak.pl](https://wojniak.pl/)
 
