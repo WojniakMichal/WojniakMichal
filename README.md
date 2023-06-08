@@ -1,7 +1,7 @@
-- 🔭 I work as a Software Tester, keeping [MyTherapy](https://www.mytherapyapp.com/) app in a good shape.
+- 🔭 I work as a QA Engineer for [Objectivity]([https://www.mytherapyapp.com/](https://www.objectivity.co.uk/).
 
-- 👨‍💻 My simple, yet very responsive website is available at [https://www.wojniak.pl](https://www.wojniak.pl/)
+- 👨‍💻 My simple, yet very responsive website is available at [https://www.wojniak.pl](https://www.wojniak.pl/).
 
-- 📝 I'm reading & posting questions on Stack Overflow as [WojniakMichal](https://stackoverflow.com/users/13998421/micha%c5%82-wojniak?tab=profile)
+- 📝 Tech stack (web & mobile): Selenium with Java, Android Studio (Kotlin), Postman (REST API), SQL, Charles Proxy, TestRail.
 
 - 📫 You can reach me on contact@wojniak.pl
